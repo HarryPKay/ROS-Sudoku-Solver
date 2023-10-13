@@ -1,0 +1,1 @@
+cd ~/sudoku_bot_ws/ && source ./devel/setup.sh && catkin_make && roslaunch ./src/all.launch

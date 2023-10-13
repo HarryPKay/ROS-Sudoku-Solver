@@ -1,0 +1,11 @@
+clingo version 4.5.4
+Reading from ./my_sudoku_ASP_program.lp ...
+Solving...
+Answer: 1
+gridNumSol(1,1,2) gridNumSol(2,2,3) gridNumSol(1,3,4) gridNumSol(2,4,1) gridNumSol(3,2,2) gridNumSol(4,1,1) gridNumSol(4,3,3) gridNumSol(3,4,4) gridNumSol(1,1,3) gridNumSol(2,1,2) gridNumSol(3,1,1) gridNumSol(4,1,4) gridNumSol(1,2,1) gridNumSol(2,2,4) gridNumSol(3,2,3) gridNumSol(4,2,2) gridNumSol(1,3,2) gridNumSol(2,3,1) gridNumSol(3,3,4) gridNumSol(1,4,4) gridNumSol(2,4,3) gridNumSol(3,4,2) gridNumSol(4,4,1)
+SATISFIABLE
+
+Models       : 1+    
+Calls        : 1
+Time         : 0.004s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s

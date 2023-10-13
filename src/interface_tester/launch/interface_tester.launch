@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="interface_tester" type="interface_tester_exec" name="interface_tester_node" launch-prefix="gnome-terminal --command"/>
+</launch>

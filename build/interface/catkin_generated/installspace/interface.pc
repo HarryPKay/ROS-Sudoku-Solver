@@ -1,0 +1,8 @@
+prefix=/home/user/sudoku_bot_ws/install
+
+Name: interface
+Description: Description of interface
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: mover_client roscpp std_msgs

@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="arm_wrist_flex" type="arm_wrist_flex_joint_exec" name="arm_wrist_flex_joint_node" launch-prefix="gnome-terminal --command"/>
+</launch>

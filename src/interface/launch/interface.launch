@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="interface" type="interface_exec" name="interface_node" launch-prefix="gnome-terminal --command"/>
+</launch>

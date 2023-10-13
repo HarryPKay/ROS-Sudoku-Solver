@@ -1,0 +1,8 @@
+prefix=/home/user/sudoku_bot_ws/install
+
+Name: arm_shoulder_pan
+Description: Description of arm_shoulder_pan
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

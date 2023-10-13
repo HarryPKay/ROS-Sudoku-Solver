@@ -1,0 +1,8 @@
+prefix=/home/user/sudoku_bot_ws/devel
+
+Name: sudoku_bot_ws_constants
+Description: Description of sudoku_bot_ws_constants
+Version: 0.0.0
+Cflags: -I/home/user/sudoku_bot_ws/src/sudoku_bot_ws_constants/include
+Libs: -L${prefix}/lib -lsudoku_bot_ws_constants
+Requires: 

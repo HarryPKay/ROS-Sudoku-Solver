@@ -1,0 +1,8 @@
+prefix=/home/user/sudoku_bot_ws/devel
+
+Name: interface_tester
+Description: Description of interface_tester
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

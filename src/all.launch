@@ -1,0 +1,10 @@
+<launch>
+    <include file="$(find arm_elbow_flex)/launch/arm_elbow_flex.launch"/>
+    <include file="$(find arm_shoulder_lift)/launch/arm_shoulder_lift.launch"/>
+    <include file="$(find arm_shoulder_pan)/launch/arm_shoulder_pan.launch"/>
+    <include file="$(find arm_wrist_flex)/launch/arm_wrist_flex.launch"/>
+    <include file="$(find gripper)/launch/gripper.launch"/>
+    <include file="$(find mover_client)/launch/mover_client.launch"/>
+    <include file="$(find interface)/launch/interface.launch"/>
+    <include file="$(find interface_tester)/launch/interface_tester.launch"/>
+</launch>

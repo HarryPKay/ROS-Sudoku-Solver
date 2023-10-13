@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="mover_client" type="mover_client_exec" name="mover_client_node" launch-prefix="gnome-terminal --command"/>
+</launch>

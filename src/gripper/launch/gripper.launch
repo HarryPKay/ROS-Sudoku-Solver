@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="gripper" type="gripper_joint_exec" name="gripper_joint_node" launch-prefix="gnome-terminal --command"/>
+</launch>
